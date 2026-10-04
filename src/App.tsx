@@ -177,7 +177,7 @@ const projects = [
 
 const experience = [
   {
-    date: "SEP 2025 — DEC 2025",
+    date: "SEP 2025 — SEP 2026",
     role: "Junior Software Developer Co-op",
     company: "Mabel Systems",
     text: "Worked on production software across web and tablet applications, with work spanning frontend, backend, APIs, databases, and operational workflows.",
@@ -188,6 +188,19 @@ const experience = [
       "Worked with SQL, migrations, and data models while debugging production issues.",
     ],
     tech: ["Go", "React", "TypeScript", "GraphQL", "PostgreSQL"],
+  },
+  {
+    date: "SEP 2025 — APR 2026",
+    role: "Full Stack Developer (Co-op / Part-Time)",
+    company: "Colibri Software",
+    text: "Built responsive, map-based web applications while working across frontend development, REST APIs, data management, and user experience improvements.",
+    bullets: [
+      "Built responsive web applications using Next.js, React, TypeScript, and Tailwind CSS for desktop and mobile users.",
+      "Integrated and tested REST APIs to manage 500+ points of interest, categories, media, and user data.",
+      "Implemented API operations and improved error handling and testing, reducing dynamic-content retrieval errors by 20%.",
+      "Collaborated on UI/UX improvements and stakeholder feedback, contributing to a 15% increase in usability scores.",
+    ],
+    tech: ["TypeScript", "Next.js", "React", "Tailwind CSS", "REST APIs"],
   },
   {
     date: "2024 — PRESENT",
