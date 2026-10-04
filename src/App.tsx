@@ -313,7 +313,7 @@ function App() {
                 >
                   <Icon name="linkedin" /> LinkedIn
                 </a>
-                <span>Wolfville, Nova Scotia</span>
+                <span>Nova Scotia, Canada</span>
               </div>
             </div>
             <div className="hero-visual reveal delay-1" aria-hidden="true">
@@ -578,14 +578,14 @@ function App() {
               >
                 Connect with me <Icon name="linkedin" />
               </a>
-              <a
+              {/* <a
                 className="button button-ghost"
                 href="https://www.linkedin.com/in/mohammadshajjad/"
                 target="_blank"
                 rel="noreferrer"
               >
                 <Icon name="linkedin" /> LinkedIn
-              </a>
+              </a> */}
             </div>
           </div>
         </section>
@@ -593,7 +593,6 @@ function App() {
 
       <footer className="footer">
         <span>© {new Date().getFullYear()} Mohammad Shajjad Hossen</span>
-        <span>Built with React + TypeScript</span>
         <a href="#home">Back to top ↑</a>
       </footer>
     </div>
